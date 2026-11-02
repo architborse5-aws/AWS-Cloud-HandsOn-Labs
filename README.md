@@ -110,9 +110,9 @@ My objective is to gain real-world experience by implementing cloud infrastructu
 
 Aspiring AWS Cloud Engineer | Linux | Python | AWS | DevOps
 
-GitHub: https://github.com/YOUR-GITHUB-architborse5-aws
+GitHub:https://github.com/architborse5-aws
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-archit-borse/
+LinkedIn:https://www.linkedin.com/in/archit-borse/
 
 ---
 
