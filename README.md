@@ -112,7 +112,7 @@ Aspiring AWS Cloud Engineer | Linux | Python | AWS | DevOps
 
 GitHub:https://github.com/architborse5-aws
 
-LinkedIn:https://www.linkedin.com/in/archit-borse/
+LinkedIn:https://www.linkedin.com/in/archit-borse-76b4b1433/
 
 ---
 
